@@ -1,0 +1,62 @@
+#pass_form{
+	background-color : Orange ;
+	border : 1px solid black ; 
+	width : 30% ;
+	margin : 80px auto ;
+	height : 50% ;
+	border-radius : 30px ;
+	margin-bottom : 50px ;
+	padding : 20px 10px ;
+}
+
+.plat{
+	border-top : 0px  ;
+}
+
+th{
+	border-top : 1px solid black ;
+	padding : 20px ;
+	font-size : 30px ;
+	font-family : courier new ;
+	font-weight : bold ;
+}
+
+.fld{
+	padding : 20px ;
+	font-size : 30px ;
+	font-family : courier new ;
+	font-weight : bold ;
+	width : 560px ;
+	color : black ;
+	border-radius : 30px ;
+	border : 1px solid black ;
+}
+
+#btn{
+	padding : 10px 1px ;
+	font-size : 35px ;
+	font-family : courier new ;
+	width : 150px ;
+	border-radius : 30px ;
+	border : 3px solid black ;
+	background-color : Orange;
+	font-weight : bold ;
+}
+#btn_2{
+	padding : 10px 1px ;
+	font-size : 35px ;
+	font-family : courier new ;
+	width : 350px ;
+	margin-left : 90px ;
+	border-radius : 30px ;
+	border : 3px solid black ;
+	background-color : #ffc4c4;
+	font-weight : bold ;
+}
+
+#eye{
+	height : 50px ;
+	width : 50px ;
+	padding-top : 12px ; 
+}
+

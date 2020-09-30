@@ -1,0 +1,39 @@
+body{
+	margin : 0px 0px 0px 0px ;
+	text-align : center ;
+	background-color : #525252;
+}
+
+#text{
+	padding-top : 0px ; 
+	font-family : courier new ; 
+	font-size : 55px ;
+	color : white ;
+	padding : 2px ;
+	position : block ;
+	/* border : 1px solid white ; */
+	padding-left : 10px ;
+}
+
+#logo{
+	width : 90px ;
+	height : 70px ;
+	padding-top : 7px ;
+	padding-bottom : 0px ;
+}
+#container{
+	background-color : black ;  
+	height : 160px;
+	position : block ;
+}
+
+#footer{
+	height: 60px;
+	background-color: black;
+	position: fixed;
+	bottom: 0px;
+	font-size: 12px;
+	width: 100%;
+	padding-left: 50px;
+	margin-top : 830px ;
+}

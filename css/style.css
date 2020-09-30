@@ -1,0 +1,88 @@
+body{
+	margin : 0px 0px 0px 0px ;
+	text-align : center ;
+	background-color : #525252;
+}
+
+#logo{
+	width : 100px ;
+	height : 80px ;
+	padding-top : 10px ;
+	padding-bottom : 0px ;
+}
+
+span{
+	padding-top : 0px ;
+	font-size : 45px ;
+	color : white ;
+	height : 50px ;
+}
+
+#text{
+	padding-top : 0px ; 
+	font-family : courier new ; 
+	font-size : 50px ;
+	color : white ;
+	padding : 2px ;
+	position : block ;
+}
+
+
+#container{
+	background-color : black ;  
+	height : 180px;
+	position : block ;
+}
+
+#footer{
+	height: 100px;
+	background-color: black;
+	position: fixed;
+	bottom: 0px;
+	font-size: 12px;
+	width: 100%;
+	padding-left: 50px;
+}
+
+
+form{
+	margin-top : 70px ;
+}
+
+#user{
+	width : 310px ;
+	height : 310px ;
+	border : 2px solid black ;
+	border-radius : 50% ;
+	margin-left : 10px  ;
+}
+
+table{
+	margin-left : 660px ; 
+	height : auto ;
+	padding : 30px ; 
+	/* position : block ; */
+}
+
+#value{
+	/* width : 58%; */
+	padding-top : 0px;
+	padding-left : 0px ;
+	/* border : 1px solid red ; */
+	position : fixed ;
+}
+
+.fld{
+	/* width :50%; */
+	font-size : 30px ;
+	font-family : courier new ;
+	padding : 3px 4px ;
+	text-align : center ;
+	color :  black;
+	border : 1px solid black ;
+	border-radius : 10px ;
+	font-weight : bold ; 
+	left : 720px ;
+	position : fixed ;
+	background-color  : #ffd8b0;
+}

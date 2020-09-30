@@ -1,0 +1,7 @@
+create table platform
+(
+platform_id int not null auto_increment primary key,
+platform_name varchar(100) not null,
+username varchar(50) not null,
+password varchar(500) not null
+);

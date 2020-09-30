@@ -1,0 +1,84 @@
+
+.fld{
+	margin-top : 100px ;  
+	padding : 15px ;
+	margin : 30px 15px ;
+	border : 2px solid black ;
+	border-radius : 10px  ;
+	font-family : courier new ;
+	font-size : 25px ;
+	font-weight : bold ;
+	color : black ;
+	background-color : #ffc4c4 ;
+}
+
+
+#main_body{
+	width : 80% ;
+	text-align : center ;
+	font-family : courier new ;
+	font-size : 20px ;
+	color : white ;
+	margin : 50px auto ;
+}
+
+#recs{
+	width : 75% ;
+	margin : 11px auto ;
+	height : auto ;
+	border : 3px solid black  ;
+	border-radius : 10px ; 
+}
+
+#head,#hd{
+	width : 10% ;
+	border-left : 0px ;
+	border-bottom : 0px ;
+}
+
+#ptm,#pm{
+	width : 15% ;
+	border-left : 0px ;
+	border-bottom : 0px ;
+}
+
+#unm,#um{
+	width : 30% ;
+	border-left : 0px ;
+	border-bottom : 0px ;
+}
+
+#pass,#ps{
+	width : 45% ;
+	border-right : 0px ;
+	border-left : 0px ;
+	border-bottom : 0px ;
+}
+
+/* COMMON CODE */
+
+.cmn{
+	text-align : center ;
+	font-family : courier new ;
+	font-size : 30px ;
+	color : black ;
+	border : 3px solid black ;  
+	border-top : 0px ;
+	border-bottom : 3px solid black ;
+	padding : 20px ;
+	/* width : 10% ; */
+	background-color : #f47a00 ;
+	/* border-radius : 10px ; */ 
+}
+
+.cm{
+	text-align : center ;
+	font-family : courier new ;
+	font-size : 20px ;
+	color : black ;
+	border : 1px solid black ; 
+	border-top : 3px solid black ; 
+	padding : 10px ;
+	background-color : #ffff79 ;
+	/* width : 10% ; */
+}
